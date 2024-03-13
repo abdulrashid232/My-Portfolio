@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Build  A Telegram Bot  🎉",
     description:
-      "A Telegram bot for movies infomation and download link",
+      "A Telegram bot for movies/series infomations and download link",
     url: "https://web.telegram.org/k/#@abdelMovie_bot",
   },
   {
@@ -43,7 +43,7 @@ const projectList = [
     url: "https://www.youtube.com/channel/UCk3WosVrrmVEsvg7vUaPdmg",
   },
   {
-    title: "An EduTech Website",
+    title: "An Education Platform",
     description:
       "Created a sample online platform for educations and hosting online courses.",
     url: "https://akadami.netlify.app/home",
